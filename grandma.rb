@@ -3,7 +3,8 @@
 #    "HUH?! SPEAK UP, SONNY!"
 #  elsif phrase.upcase
 #    "NO, NOT SINCE 1938!"
-#  elsif
+  elsif phrase == "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
 
 
 # Whatever you say to grandma, she should respond with
